@@ -1,7 +1,7 @@
 ---
 layout: home
 title: A simple starter kit for Eleventy
-postsHeading: Latest posts
+postsHeading: Latest work
 archiveButtonText: See all posts
 socialImage: ''
 ---

@@ -30,8 +30,16 @@ I think more feminine despite my semi-worked out body that “alpha... Alpha!...
 
 There is no escaping that, people judge you on your looks, which accounts for only 2% of your body's total mass, of which your body is the second thing you are, as you are your brain that makes up the remaining 98%. 
 
-That's ok, we all make a calculus mistake like that sometimes, and then tell everyone simply how amazing that person is because “you never expected” that from me. 
+That's ok, we all make a calculus mistake like that sometimes, and then tell everyone simply how amazing that person is because “you never expected” that from them. That's actually not a nice thing to say you know, I say it's your bad.
 
-That's not my bad, that's your bad judgement making a biased judgement-call that you can't seem to intercept. Because the only way I can surprise you if you had lower expectations of me before, showing you had them to begin with based on your *solid people skills* and ditto **experience** reached your own conclusions, and never questioned them again.
+It's your bad judgement making a biased judgement-call that you can't seem to intercept on someone you don't know. Because the only way I can surprise you if you had lower expectations of me before, showing you had them to begin with based on your *solid people skills* and ditto **experience**, quickly reached your own conclusions, never considered to ask an open question, only self-confirming ones that “fit the picture” that you were looking for. 
+
+If you go look for an enemy, you will find it. I'm just watching people and observing their behaviour. People are greedy, especially white people. They have grown accustomed to ask everything to those
+
+Funny enough people do register it, it's just most people won't tell it straight to your face that your brain is failing you and I kindly refuse your “gesture” since it's wrapped like a present but actually is a pile of hypocrite bullshit. 
+
+I'm an intellectual, so praise me like an intellectual. If I'm a peasant, then praise me like a peasant with a beer. I love special beers, the really good stuff. Crafted to perfection.
+
+But don't come barging in with your homebrewed shit like it's the best thing I will ever taste. Chances are I already had a taste of yours, it just had a different label. Key take-away here moonshiner; [don't label people]()
 
 This blog uses [Hylia](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia) by [Andy Bell](https://twitter.com/andybelldesign) as a static site generator based on [Eleventy](https://11ty.io) and is powered by the designer-friendly [Netlify CMS](https://www.netlifycms.org/). <br>I highly recommend you take it for a spin using this [Netlify Starter Kit](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia), especially if you **can't code**, that deploys a site + CMS in just three clicks.

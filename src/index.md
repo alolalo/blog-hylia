@@ -10,9 +10,9 @@ Chizzle, chizzle, *chizzle*... Development is my sizzle to chizzle. These are my
 
 All my base belongs to me, so therefor I write as who I want to be; *Free* with a capital F because tech is what made sharing this possible in the first place. 
 
-Technology is **FreeDOM**, not freedom.
+Technology is **FreeDOM** 
 
-This blog is simply a [decleration of independence]() for me, *a record of my freedom*. My freedom is thinking freely, finding my own religion and crafting my own solutions, creations and tooling. [All open source]().
+This blog is simply a [decleration of independence]() for me, *a record of my freedom*. My freedom is thinking freely, finding my own religion and crafting my own solutions, principles and tooling. [All open source]().
 
 I'm a happy designer & developer because of it, not crappy and unhappy that I write for fame & fortune, posing as an authority because I'm not happy with myself and need “followers” to feel important. 
 
@@ -20,7 +20,13 @@ If I don't believe me, you don't believe me. I believe me to be a logical holist
 
 Like how for the [first 23 weeks]() of your life your body didn't decide on it's sexes yet, which makes your brain a-sexual to begin. 
 
-This is reflected in Eastern Phylosophy by Ying-Yang, the symbol that represents the perfect balance between the *male*- and **feminine** side of the brain. Yes, you read it correct; the Chinese have known for [thousands of years]() our existence is both male and feminine in thinking, our bodies are not. Therefor you are your brain first, then your body. Let nobody tell you otherwise as your brain came first, therefor what you think you are is what you are first. I'm the best lesbian boyfriend my girlfriend ever had, and I think more feminine despite my semi-worked out body that “alpha... Alpha!... ALPHA-MALE!”. 
+This is reflected in Eastern Phylosophy by Ying-Yang, the symbol that represents the perfect balance between the *male*- and **feminine** side of the brain. 
+
+Yes, you read it correct; the Chinese have known for [thousands of years]() our brain is both male and feminine in thinking, and our bodies are not. Therefor you are your brain first, then your body. 
+
+Let nobody tell you otherwise as your brain came first, therefor what you think you are is what you are first. I'm the best lesbian boyfriend my girlfriend ever had. No joke...
+
+I think more feminine despite my semi-worked out body that “alpha... Alpha!... **ALPHA-MALE!**”. [This is how I think](), like how I'm writing this paragraph and that's why I like to keep a blog; It's a natural log of my brain's activity, not my bodies'.
 
 There is no escaping that, people judge you on your looks, which accounts for only 2% of your body's total mass, of which your body is the second thing you are, as you are your brain that makes up the remaining 98%. 
 

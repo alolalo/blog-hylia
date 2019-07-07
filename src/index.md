@@ -6,53 +6,57 @@ postsHeading: Latest work
 archiveButtonText: See all posts
 socialImage: ''
 ---
-This blog is simply a [decleration of independence]() for me, *a record of my freedom*. My freedom is thinking freely, finding my own religion and crafting my own solutions, principles and tooling. [All open source](#) 
+This blog is simply a [decleration of independence]() for me, *a record of my freedom* and a place to log my thoughts, ideas and place to dogfeed my own design principles and practices. Both as a designer and a front-end developer.  
 
-I'm a happy designer & developer because of it, not crappy and unhappy that I write for fame & fortune, posing as an authority because I'm not happy with myself and need “followers” to feel important. 
+My freedom is thinking freely, finding my own religion and crafting my own solutions, principles and tooling. [All open source](#) as this page was rendered to you almost entirely using open source software and frameworks. 
 
-If I don't believe me, you don't believe me. I believe me to be a logical holistic thinker, a spiritual old soul, and a lesbian-orriented brain who likes to keep things simple insightfull & delightfull.
+I love to start from scratch as I believe that people who have nothing are the happiest; they don't have unreal expectations of some magical solution, and they also know they can't get any lower then where they are now. Ground zero is my domain, it's perfectly imperfect.
 
-Like how for the [first 23 weeks]() of your life your body didn't decide on it's sexes yet, which makes your brain a-sexual to begin. 
+I hope that we come understand blogs are meant to be personal because as big blogging sites write for money. I don't write for money or recognition, but simply for me and share it online. Everything else happens after that by other people, out of my control; c'est la vie, c'est toi, c'est moi.
 
-This is reflected in Eastern Phylosophy by Ying-Yang, the symbol that represents the perfect balance between the *male*- and **feminine** side of the brain. 
+So for those who read this; it means a lot to me knowing I'm just doing this (b)logging solely for me. To hear myself think and trying to explain things to myself so I can read it again some day when my future self has the need to, and in return give you insight into my proces which you can value anyway you want, and can use my open sourced work anyway you want... 
 
-Yes, you read it correct; the Chinese have known for [thousands of years]() our brain is both male and feminine in thinking, and our bodies are not. Therefor you are your brain first, then your body. 
+I rate that five stars on a scale of near-perfectly-imperfect-perfection; it doesn't make me biased to write for fame or recognition, and you know someone is not selling you a story for clicks. 
 
-Let nobody tell you otherwise as your brain came first, therefor what you think you are is what you are first. I'm the best lesbian boyfriend my girlfriend ever had. No joke...
+For good and for worse; if something pisses you off about what I write, is not giving attribution to a person or work of open source, or is just simply dead wrong and inaccurate, and you just want to say "F&^$ you GUUS!"; simply visit www.fuckgu.us and let's take it offline so the internet doesn't remember our little fight 🖖
 
-I think more feminine despite my semi-worked out body that “alpha... Alpha!... **ALPHA-MALE!**”. [This is how I think](), like how I'm writing this paragraph and that's why I like to keep a blog; It's a natural log of my brain's activity, not my bodies'.
+I think more feminine despite my semi-worked out body that “alpha... Alpha!... **ALPHA-MALE!**”. [This is how I think](), like how I'm writing this paragraph and that's why I like to keep a blog; It's a natural log of my brain's activity, thoughts and processes, not my bodies'. And for the record; I don't take selfies while working out. I don't take selfies at all, period. It's a form of vanity trying to control a hallucination of being able to capture beauty.
 
 There is no escaping that, people judge you on your looks, which accounts for only 2% of your body's total mass, of which your body is the second thing you are, as you are your brain that makes up the remaining 98%. 
 
 That's ok, we all make a calculus mistake like that sometimes, and then tell everyone simply how amazing that person is because “you never expected” that from them. That's actually not a nice thing to say you know, I say it's your bad.
 
-It's your bad judgement making a biased judgement-call that you can't seem to intercept on someone you don't know. Because the only way I can surprise you if you had lower expectations of me before, showing you had them to begin with based on your *solid people skills* and ditto **experience**, quickly reached your own conclusions, never considered to ask an open question, only self-confirming ones that “fit the picture” that you were looking for. 
+It's your bad judgement making a biased judgement-call to objectify a person and you can't seem to intercept those thoughts as being arrogant. Because the only way I can surprise you if you had lower expectations of me before, showing you had them to begin with based on your *solid people skills* and ditto **experience**, quickly reached your own conclusions, never considered to ask an open question, only self-confirming ones that “fit the picture” that you were looking for. 
 
-If you go look for an enemy, you will find it. I'm just watching people and observing their behaviour. People are greedy, especially white people. They have grown accustomed to ask everything to those
+Funny enough people you say this to do register it, it's just most people won't tell it straight to your face that your brain is failing you and I kindly refuse your “gesture” since it's wrapped like a present but actually is a pile of hypocrite bullshit; you say I impressed you, but can I ask what did you think of me before that?...
 
-Funny enough people do register it, it's just most people won't tell it straight to your face that your brain is failing you and I kindly refuse your “gesture” since it's wrapped like a present but actually is a pile of hypocrite bullshit. 
+The lie tastes sweet in the beginning, and bitter in the end. I'm bitter-sweet from beginning to end, so don't judge my tone of voice for being bitter. There is sweatness at the end of my grittyness, it's just that you need it to taste bitter first so you know what you don't want (again) first. 
 
-The lie tastes sweet in the beginning, and bitter in the end. I'm bitter-sweet.
+Stop lying to your self and face your own hallucinating ego that is on a quest to rule the world so you can "save all people" with your enlightened insight. You're not perfect, nor am I. We're perfectly imperfect and that's the highest level of perfection you can achieve. So please regard this paragraph as a lie, because reading it probably tastes like sweetness and you thinking "he's right!".
 
-Know what "that" stuff tastes like. [dogfeed]() that shit, and learn to chow it down to develop a taste for these "secret" recipes. Because everything else is simply a controlled hallucination of what a future projection of ultimate security, absolutism; Solved.
+I once thought sweatness first too by thinking I could build my own design system as a UI/UX designer, doing design & (cough) code, oversimplifying my ambitions and expectations out of sheer unknowingness of the development-side of things. 
 
-I once thought this too by thinking I could build my own design system as a designer, oversimplifying my ambitions and expectations out of sheer unknowingness of the development side of things. I know how to code, but programming is something else. 
+I know how to code, but programming is something else. The difference being coding is more like an abstract mark-up language such as HTML & CSS, describing things like a paragraph of text. 
 
-Designing a design system is a lot like programming, and I can't program. Luckily I'm persistent enough to figure things out, and quite resourcefull in fixing my own itch. [insert picture of balcony here]()
+Programming is more like designing the structure of things and how the described things in the mark-up should behave. Programming is far more dynamic and knows many programming languages to create your desired behaviour, where coding is relatively static if you consider HTML, CSS, YAML & MD are all mark-up languages. 
 
-I can't do everything myself, I accepted that from the beginning, but I didn't accept is that I sucked at programming. I can write pseudo-code and work out the logic of things.  But what I didn't figure out soon enough is that I needed a mentor that knows how to design a system, and just started doing everything myself. Failing as I go, believing I could do it.
+It's a deeper layer that is fundementally different because you write it for someone else, where writing in HTML & CSS doesn't have to be used by somebody else (besides your peers), just a device to render it on. The same goes for creating a design system; you have to write it for somebody else, and make it useful so they can create their DS with it.
 
-There's a plus-side to that; you discover a lot of repositories that inspire you if they have a proper READ.ME that explains what it does. I hate the fucking terminal, but I love using it as it's just to awesome to see everything run all the time and live-reloading changes that you know are dev-ready. I'm infected for sure. 
+Designing a design system is a lot like programming. Luckily I'm persistent enough to figure things out, and quite resourcefull in fixing my own itch. [insert picture of balcony here]()
 
-As a designer you hit a wall and you then know what you don't know; I can't code. And it's very easy to reach out to tooling that will do the job for you like Adobe XD, Framer X, Figma if develpment is what you seek. 
+I can write pseudo-code and work out the logic of things.  But what I didn't figure out in the beginning is that I needed a mentor that knows how to design a system from scratch, and just started doing everything myself. Failing as I go, believing I could do it, and still going strong. Just taking a more humble approach here to computer science at large, and for that you need a lifetime experience which I don't have.
 
-There's nothing quite like fixing your own solution from scratch, and since I've built Revolver DS in Sketch myself I know for sure I must persue an independent approach. Period. Fix it myself because nobody will build what I want.
+There's a big plus-side to going on your own hunt; you discover a lot of repositories that inspire and throw a curve-ball at what you are making. I hated Terminal.app, but I love using it as it's just to awesome to see everything run all the time and live-reloading changes that are the end product. I'm infected by "The Grabs" for sure. 
 
-What I learned from building Revolver DS using Sketch using a visual interface, is that it's very easy to think in components. But limited by the abilities from Sketch, and knowing that I wanted to build something more dynamically, I discovered [utility-first] design systems like Tachyons and Tailwind were really up my alley.
+As a designer you hit a wall when you can only code, and you then know what you didn't know back then; I can code but I can't program. And it's very easy to reach out to tooling that will do the job for you like Adobe XD, Framer X, Figma if instant-development is what you seek. 
+
+There's nothing quite like fixing your own solution from scratch, something you've seen develop over time and guided to where you wanted it to land. I've built Revolver DS in Sketch myself to fix the fatigue of "design systems for Sketch". They're not design systems, they're not connected to any code, they're just component libraries with terrible naming conventions and symbol structuring.
 
 As a designer who wants to keep up with development, Sketch slows you down to much and forces you to adopt Figma, Framer and the likes. So at some point you hit a wall you know a tool can't fix. You know the only way you will get to have your design system work the way you want is to build it yourself and open source is the first resort.
 
-I'm choosing differently as I believe in the foreseeable future designers will become front-end designers that can code. I wish to be one of the first as front-end developer that can [program](), by using and hopefully teaching people how to use it. 
+I'm choosing a different approach as many developers recommend getting a SOLID foundation first, and then choose a framework if you need it. Personally I like to start from scratch so everything is clean from the ground-up, and I don't mind failing at first.
+
+I believe in the foreseeable future designers will become front-end designers that can code. I wish to be one of the first as front-end developer that can [program](), by using and hopefully teaching people how to use it. 
 
 Actually, hopefully I'm not teaching them because that shows the READ.me sucked to begin with, but I like to teach people what I've learned and that's not something of lately. I wanted to become a teacher when I was young, but didn't know what kind of teacher. Know when I'm 36, I know.
 

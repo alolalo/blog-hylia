@@ -44,7 +44,11 @@ It's a deeper layer that is fundementally different because you write it for som
 
 Designing a design system is a lot like programming. Luckily I'm persistent enough to figure things out, and quite resourcefull in fixing my own itch. [insert picture of balcony here]()
 
-I can write pseudo-code and work out the logic of things.  But what I didn't figure out in the beginning is that I needed a mentor that knows how to design a system from scratch, and just started doing everything myself. Failing as I go, believing I could do it, and still going strong. Just taking a more humble approach here to computer science at large, and for that you need a lifetime experience which I don't have.
+I can write pseudo-code and work out the logic of complex things.  But what I didn't figure out in the beginning is that I needed a mentor that knows how to design a system from scratch, and just started doing everything myself. You start searching repos for inspiration, finding some things of interest, and trying to see if you can make their frameworks work the way you want...
+
+Failing as I go, believing I could do it and still going strong today, I learned quite a lot but most importantly that I'm not experienced enough to do it alone. Today I'm taking a more humble approach here to computer science at large, and to understand that holistically you need lifetime experience which I don't have. 
+
+I'm learning it linearly right now, from the beginning. I've got the foundation and the will to do it and for me it's a personal reward to learn something new by experimenting with something that used to scare the living shit out of me; programming.
 
 There's a big plus-side to going on your own hunt; you discover a lot of repositories that inspire and throw a curve-ball at what you are making. I hated Terminal.app, but I love using it as it's just to awesome to see everything run all the time and live-reloading changes that are the end product. I'm infected by "The Grabs" for sure. 
 

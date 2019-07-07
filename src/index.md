@@ -52,7 +52,7 @@ I'm learning it linearly right now, from the beginning. I've got the foundation 
 
 There's a big plus-side to going on your own hunt; you discover a lot of repositories that inspire and throw a curve-ball at what you are making. I hated Terminal.app, but I love using it as it's just to awesome to see everything run all the time and live-reloading changes that are the end product. I'm infected by "The Grabs" for sure. 
 
-As a designer you hit a wall when you can only code, and you then know what you didn't know back then; I can code but I can't program. And it's very easy to reach out to tooling that will do the job for you like Adobe XD, Framer X, Figma if instant-development is what you seek. 
+As a designer you hit a wall when you can only code, and you then know what you didn't know back then; I can code but I can't program. And it's very easy to reach out to tooling that will do the job for you like Adobe XD, Framer X, Figma if instant-development is what you seek.  Some will probably teach you how to code while doing it, as that's how I learned most of my coding skills. You reverse engineer how it works.
 
 There's nothing quite like fixing your own solution from scratch, something you've seen develop over time and guided to where you wanted it to land. I've built Revolver DS in Sketch myself to fix the fatigue of "design systems for Sketch". They're not design systems, they're not connected to any code, they're just component libraries with terrible naming conventions and symbol structuring.
 

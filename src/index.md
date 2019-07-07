@@ -2,7 +2,7 @@
 layout: home
 title: "See what Guus is rocking \U0001F918"
 metaTitle: A design and development blog by Guus Hoeve
-metaDesc: Hello Guusito
+metaDesc: ''
 postsHeading: Latest work
 archiveButtonText: See all posts
 socialImage: ''

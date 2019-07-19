@@ -7,6 +7,8 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-My name is [Guus](#), UX/UI-designer that codes, and this blog is intended both for me to have a space to write document my thoughts, opinions and practices. All opinions and viewpoint on this blog are my own.
+My name is [Guus](#), UX/UI-designer that codes, and this blog is serves the purpose of logging my thoughts, processes and findings in a more contemporary way so I don't have to reverse engineer a pretty picture on my [portfolio]() to impress people.
 
-This blog is based on Hylia, a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. Get started now by [deploying Hylia to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia) in just one click.
+All thoughts and opinions are my own, as I created this blog for me in the first place, so you know for sure I'm not trying to fake it towards writing this for fame and fortune. Every positive has a negative
+
+

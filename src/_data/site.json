@@ -1,7 +1,7 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "guus.rocks",
-  "shortDesc": "A dedicated space for all things I'm currently rocking. Visit vangu.us for my portfolio, askgu.us if you have any questions, and getgu.us if you want to work with me!",
+  "shortDesc": "A dedicated space for all things I'm currently rocking. Visit vangu.us for my portfolio, askgu.us if you have any questions, and getgu.us if you want to work with me! <br><br>This blog was created with [Hylia]() by the amazingly generous [Andy Bell]() and [Netlify + CMS]()",
   "url": "https://guus.rocks",
   "authorEmail": "hello@guushoeve.com",
   "authorHandle": "@bliepjes",

@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
       "text": "GitHub",
       "url": "https://github.com/alolalo",
       "external": true
@@ -14,6 +9,11 @@
       "text": "Twitter",
       "url": "https://twitter.com/bliepjes",
       "external": true
+    },
+    {
+      "text": "Home",
+      "url": "/",
+      "external": false
     }
   ]
 }

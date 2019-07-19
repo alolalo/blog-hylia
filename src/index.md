@@ -1,10 +1,12 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: See what Guus is rocking
+metaTitle: A personal tech-blog by Guus Hoeve
+metaDesc: ''
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+My name is [Guus](#), UX/UI-designer that codes, and this blog is intended both for me to have a space to write document my thoughts, opinions and practices. All opinions and viewpoint on this blog are my own.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia)
+This blog is based on Hylia, a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. Get started now by [deploying Hylia to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia) in just one click.

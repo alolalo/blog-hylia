@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'The Brexit: don''t celebrate before you''ve seen victory'
+title: 'The Brexit effect: don''t celebrate too soon'
 date: 2019-07-21T18:45:31.836Z
 tags:
   - mindset

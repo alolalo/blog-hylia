@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Why your leadership is burning your runway, and not your devs'
+title: 'Why your leadership is burning your runway, and your devs'
 date: 2019-07-21T16:57:06.579Z
 tags:
   - innovation

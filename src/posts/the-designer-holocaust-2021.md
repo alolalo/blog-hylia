@@ -9,3 +9,4 @@ tags:
 - the rise of design systems and standards
 - the MacDonalds way of working
 - excluded by senior design 
+- the global job market and the race to the bottom
